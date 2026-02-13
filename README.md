@@ -37,6 +37,11 @@ We don't prescribe integration method.
 
 Contributions are welcome.
 
+
+TMP:
+This repo is 'source of truth'
+Tools like https://github.com/dyoshikawa/rulesync can sync these rules to your local projects
+
 ---
 
 Maintained by the Agenture team.
