@@ -15,32 +15,16 @@ This repository contains opinionated, battle-tested rules that help coding agent
 * Designed for tools like Cursor, Claude, Copilot, and other LLM-based coding agents
 * Focused on **clarity, consistency, and compliance**
 
-## What this repo is not
-
-* Not a framework
-* Not model-specific
-* Not tied to any single vendor or product
-
-## Structure
-
-* Each rule set is self-contained
-* Rules are written to be **copy-paste friendly**
-* Language is optimized for LLM compliance, not humans
-
 ## Usage
 
-Apply these rules using the mechanism provided by your IDE or agent tool.
-Some tools support direct imports from a GitHub repository (for example, Cursor). Others require manual copying or local configuration.
 We don't prescribe integration method.
+In our own projects we use https://github.com/dyoshikawa/rulesync to sync rules to our local projects. But the value here is carefully curated and continuosly improving set of artifacts, not specific distribution method.
+
 
 ## Contributing
 
 Contributions are welcome.
 
-
-TMP:
-This repo is 'source of truth'
-Tools like https://github.com/dyoshikawa/rulesync can sync these rules to your local projects
 
 ---
 
