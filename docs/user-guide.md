@@ -8,7 +8,7 @@ agent-conf manages AI agent configurations across multiple tools. You write rule
 
 ```bash
 # Install from GitHub
-uv tool install git+https://github.com/agenture-org/agent-conf
+uv tool install git+https://github.com/vkroz/agent-conf
 
 # Or install from a local clone for development
 git clone https://github.com/agenture-org/agent-conf.git
